@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgba(238, 250, 255, 0.507);
+  margin: 100px;
+}
+main {
+  background-color: rgba(116, 64, 154, 0.765);
+  width: 80%;
+  overflow: hidden;
+  position: absolute;
+  background-position: left;
+  margin: 20px;
+  border-radius: 10px;
+}
+header {
+  background-color: rgb(115, 22, 103);
+  padding: 20px;
+  margin: 0;
+  color: white;
+}
+p {
+  padding-top: 20px;
+  margin: 50px;
+  font-size: 20px;
+  color: white;
+}
